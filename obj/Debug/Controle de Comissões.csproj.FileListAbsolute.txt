@@ -1,0 +1,92 @@
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Controle de Comissões.exe.config
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Controle de Comissões.exe
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Controle de Comissões.pdb
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Guna.UI2.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\EnvDTE.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\stdole.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\EnvDTE.xml
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.AssemblyReference.cache
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.SuggestedBindingRedirects.cache
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmSplash.resources
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.Properties.Resources.resources
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.GenerateResource.cache
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.exe.licenses
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.CoreCompileInputs.cache
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.CopyComplete
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.exe
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.pdb
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmMain.resources
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.AboutBox.resources
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmBudgetCalculator.resources
+C:\Marcelo\PROGRAMACAO\C#\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmCommNProd.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Controle de Comissões.exe.config
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Controle de Comissões.exe
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\bin\Debug\Controle de Comissões.pdb
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.AssemblyReference.cache
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.AboutBox.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmBudgetCalculator.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmCommNProd.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmMain.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmSplash.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.Properties.Resources.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.GenerateResource.cache
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.exe.licenses
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.CoreCompileInputs.cache
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.csproj.CopyComplete
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.exe
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle de Comissões.pdb
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmStdValues.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmPromoProdDialog.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmSuppliers.resources
+D:\MARCELO\PROGRAMACAO\Meus-Projetos\C-Sharp\Controle de Comissões\obj\Debug\Controle_de_Comissões.FrmDialog.resources
